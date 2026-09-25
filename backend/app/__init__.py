@@ -1,0 +1,1 @@
+"""SurakshaSetu FastAPI application package."""

@@ -1,0 +1,6 @@
+@import "./app.css";
+@import "./feature.css";
+@import "./operations-theme.css";
+
+::selection { background: #cfe0eb; color: #102b3e; }
+:focus-visible { outline: 3px solid rgba(29, 95, 145, .28); outline-offset: 2px; }

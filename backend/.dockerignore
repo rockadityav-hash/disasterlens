@@ -1,0 +1,14 @@
+.git
+.env
+.env.*
+.venv
+venv
+__pycache__
+**/__pycache__
+*.pyc
+**/*.pyc
+*.log
+*.pem
+*.key
+credentials
+secrets

@@ -1,0 +1,2 @@
+site_reference,name,latitude,longitude,total_area_ha,legally_available_area_ha,buildable_area_ha,excluded_area_ha,land_verification_status,housing_capacity,water_capacity,sanitation_capacity,health_capacity,school_capacity,road_access_capacity,current_population,allocated_relocatees,source_organisation,last_verification_date
+SITE-RPG-01,Kund Plateau A,30.5161,79.0448,22.4,18.9,15.7,6.7,verified_government_land,1240,820,980,900,860,1100,160,50,Revenue Department demonstration,2026-08-20

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">SurakshaSetu</title>
+  <desc id="desc">An Indian civic-style roundel with a protective shield, bridge and safety signal.</desc>
+  <circle cx="32" cy="32" r="30" fill="#123a52"/>
+  <path d="M9.5 24.5A25 25 0 0 1 54.5 24.5" fill="none" stroke="#e97832" stroke-linecap="round" stroke-width="4"/>
+  <path d="M9.5 39.5A25 25 0 0 0 54.5 39.5" fill="none" stroke="#2f7b58" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="32" cy="32" r="22.5" fill="#ffffff"/>
+  <path d="M32 12.5 45.5 17.5v10.7c0 9.5-5.3 16.5-13.5 20.7-8.2-4.2-13.5-11.2-13.5-20.7V17.5L32 12.5Z" fill="#eef3f5" stroke="#123a52" stroke-linejoin="round" stroke-width="2.3"/>
+  <circle cx="32" cy="21.5" r="3.8" fill="#e97832"/>
+  <path d="M22.5 32h19M24.5 32v10m15-10v10" fill="none" stroke="#123a52" stroke-linecap="round" stroke-width="2.8"/>
+  <path d="M24.5 40.5c2.2-5.7 4.7-8.5 7.5-8.5s5.3 2.8 7.5 8.5" fill="none" stroke="#2f7b58" stroke-linecap="round" stroke-width="3"/>
+</svg>
