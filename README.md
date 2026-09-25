@@ -1,8 +1,4 @@
-# DisasterLens — SurakshaSetu baseline
-
-This is an independent copy of [SurakshaSetu](https://github.com/rockadityav-hash/surakshasetu-mvp), pinned to source commit `7b34532bd052de8152cda9a96729e77d412c7b94` (`Remove NASA Earthdata integration`). The source was imported from a GitHub archive, without its `.git` directory or history. The original repository was not modified or pushed to.
-
-The existing SurakshaSetu interface, branding, sample data, translations, algorithms and prototype behavior are intentionally preserved. No new DisasterLens decision-support features or redesign are included. Copied functionality is attributed to SurakshaSetu; these commits record migration into DisasterLens, not original authorship.
+# DisasterLens
 
 ## Structure
 
